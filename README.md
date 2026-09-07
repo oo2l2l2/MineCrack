@@ -1,7 +1,7 @@
 # MineCrack
 a collection of the ultra powerful hack clients for minecraft.
 version of hacks on left, mc version on right
-prism is  rarely supported on its own
+prism is rarely supported on here
 
 1.0.0 - 26.2
 
@@ -19,3 +19,6 @@ prism is  rarely supported on its own
 
 
 1.2.2 - 26.2
+
+
+1.3 - 26.2
